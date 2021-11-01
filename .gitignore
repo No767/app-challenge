@@ -1,0 +1,7 @@
+.vscode # vs code temp files
+*.dccache # from vs code
+.idea # Jetbrains IDE temp files
+.un~ # Vim/NeoVim Temp files
+.vs #visual studio temp files
+node_modules
+
