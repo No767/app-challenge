@@ -1,0 +1,19 @@
+{
+  "name": "app-challenge",
+  "version": "1.0.0",
+  "description": "App Challenge Navbar for Girls Who Code",
+  "main": "script.js, index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/No767/app-challenge.git"
+  },
+  "keywords": [
+    "build"
+  ],
+  "author": "No767",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/No767/app-challenge/issues"
+  },
+  "homepage": "https://github.com/No767/app-challenge#readme"
+}
